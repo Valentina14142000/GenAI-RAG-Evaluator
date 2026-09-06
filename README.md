@@ -4,6 +4,39 @@
 
 **GenAI-RAG-Evaluator** is a production-grade Retrieval-Augmented Generation (RAG) system designed to evaluate and optimize document-based question-answering pipelines. Built on industry-standard frameworks including LangChain, ChromaDB, and OpenAI APIs, this system provides end-to-end capabilities for ingesting documents, generating contextually relevant responses, and systematically evaluating output quality.
 
+## About This Project
+
+### Project Goals
+- **Enable organizations** to build trustworthy AI-powered document Q&A systems
+- **Measure and optimize** RAG pipeline performance through quantifiable metrics
+- **Reduce hallucinations** and improve response accuracy with evidence-based evaluation
+- **Accelerate development cycles** with automated quality assurance workflows
+
+### Use Cases
+- **Enterprise Knowledge Management** - Query internal documentation, policies, and procedures
+- **Customer Support Automation** - Intelligent FAQ systems with measurable accuracy
+- **Legal & Compliance** - Document review and regulatory question answering
+- **Research & Academia** - Academic paper analysis and citation tracking
+- **Financial Services** - Regulatory documentation and policy interpretation
+
+### Target Audience
+- **Data Scientists & ML Engineers** - Building and evaluating LLM applications
+- **Software Development Teams** - Integrating RAG systems into production applications
+- **Enterprise Organizations** - Implementing AI-driven information retrieval solutions
+- **AI Researchers** - Benchmarking RAG performance and evaluation methodologies
+
+### Key Benefits
+- **Measurable Quality** - Quantify response accuracy and relevance before deployment
+- **Production-Ready** - Scalable architecture suitable for enterprise environments
+- **Easy Integration** - Clean APIs and modular design for seamless implementation
+- **Transparency** - Understand model decisions through detailed evaluation reports
+- **Cost Optimization** - Reduce model API calls through effective retrieval strategies
+
+### Project Status
+- **Current Version:** 1.0.0
+- **Status:** Active Development
+- **Last Updated:** September 2026
+
 ## Key Capabilities
 
 ### Document Processing
