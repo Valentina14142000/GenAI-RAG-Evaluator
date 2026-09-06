@@ -70,7 +70,7 @@
 
 1. **Clone and navigate to the repository:**
    ```bash
-   git clone https://github.com/Valentina14142000/GenAI-RAG-Evaluator.git
+   git clone repository
    cd GenAI-RAG-Evaluator
    ```
 
@@ -139,7 +139,7 @@ See [requirements.txt](requirements.txt) for complete dependency list. Key packa
 Environment variables (configure in `.env`):
 
 ```
-OPENAI_API_KEY=your_api_key_here
+OPENAI_API_KEY=api_key_here
 ```
 
 ## Deployment
